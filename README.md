@@ -1,5 +1,5 @@
 # 💫 About Me:
--Student studying BSIT.<br>-Graphic Designing.<br>-Trying UI/UX.<br>-I’m currently learning Java.<br>-My works are posted in Pinterest.
+-Student studying BSIT.<br>-Trying UI/UX.<br>-I’m currently learning Java.<br>-My works are posted in Pinterest.
 
 
 ## 🌐 Socials:
